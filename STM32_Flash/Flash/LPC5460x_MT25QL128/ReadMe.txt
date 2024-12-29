@@ -1,0 +1,1 @@
+ Files in folder 'devices' are copied from SDK_2.0_LPCXpresso54608.
